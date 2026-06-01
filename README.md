@@ -1,2 +1,2 @@
 # Data-Science-Project
-This project was based around using Pandas, NumPy, and Matplotlib to effectively analyze a dataset from Kaggle. This dataset involved data on the rate of greenhouse gas emissions from different sectors of the economy and different areas of the world.
+This project was based around using Pandas and Matplotlib to effectively analyze a dataset from Kaggle. This dataset involved data on the rate of greenhouse gas emissions from different sectors of the economy and different areas of the world. Included in this repository is the project lab report (in the file titled "AI Data Science Project.md"), and the actual project files, titled ...
